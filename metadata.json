@@ -221,5 +221,6 @@
   "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
   "name" : "Birds",
   "image" : "bird.fill",
-  "color" : "8C33B6"
+  "color" : "8C33B6",
+  "description" : "Chirps, songs, and other sounds from the birds of nature"
 }
