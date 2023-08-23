@@ -222,5 +222,7 @@
   "name" : "Birds",
   "image" : "bird.fill",
   "color" : "8C33B6",
+  "duration" : 1543,
+  "size" : 21199715,
   "description" : "Chirps, songs, and other sounds from birds of nature."
 }
