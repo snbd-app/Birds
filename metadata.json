@@ -290,8 +290,8 @@
       "name" : "Whooper Swan",
       "color" : "FFCC00",
       "audioSource" : "[Swan at lake late at night](https://freesound.org/people/jus/sounds/73618/) by [jus](https://freesound.org/people/jus/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)",
-      "imageSource" : "[Cygnus cygnus Singschwan](http://photo-natur.de/) by [Andreas Trepte](http://photo-natur.de/) is licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5)",
-      "image" : "[Cygnus cygnus Singschwan](http://photo-natur.de/) by [Andreas Trepte](https://commons.wikimedia.org/wiki/File:Cygnus_cygnus_Singschwan.jpg) is licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5)"
+      "imageSource" : "[Cygnus cygnus Singschwan](http://photo-natur.de/) by [Andreas Trepte](https://commons.wikimedia.org/wiki/File:Cygnus_cygnus_Singschwan.jpg) is licensed under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5)",
+      "image" : "jpeg"
     },
     {
       "name" : "Wood Pigeon",
